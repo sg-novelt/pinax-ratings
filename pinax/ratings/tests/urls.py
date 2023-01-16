@@ -1,5 +1,6 @@
-from django.conf.urls import include, url
+from django.conf.urls import include
+from django.urls import path
 
 urlpatterns = [
-    url(r"^", include("pinax.ratings.urls", namespace="pinax_ratings")),
+    path("", include("pinax.ratings.urls", namespace="pinax_ratings")),
 ]
