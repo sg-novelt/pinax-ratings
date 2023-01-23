@@ -267,6 +267,12 @@ hooking up of a rating UI. This is optional and overridable by the site develope
 
 ## Change Log
 
+### 5.0.0
+
+* Takeover by Novel-T
+* Support Django 4
+* Add missing migration
+
 ### 4.0.0
 
 * Drop Django 1.11, 2.0, and 2.1, and Python 2,7, 3.4, and 3.5 support
