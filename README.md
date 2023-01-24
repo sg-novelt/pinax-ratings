@@ -267,11 +267,14 @@ hooking up of a rating UI. This is optional and overridable by the site develope
 
 ## Change Log
 
+# 5.0.1
+
+* Add missing migration
+
 ### 5.0.0
 
 * Takeover by Novel-T
 * Support Django 4
-* Add missing migration
 
 ### 4.0.0
 
